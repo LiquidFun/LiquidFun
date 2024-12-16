@@ -12,21 +12,27 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/LiquidFun/Simple-Traffic-Simulation/" title="Simple Traffic Simulation - simulation of a single traffic intersection">
+    <img src="https://github.com/LiquidFun/LiquidFun/blob/main/TrafficSimulation.png" style="height:120px">
+  </a>
+</p>
+
 <h2 align="center">My Games</h2>
 
 <p align="center">
 
   <a href="https://github.com/LiquidFun/stack-em-up" title="Stack 'em Up - Difficult Puzzle Platformer | 2 Person Team in 7 day Game-Jam">
-    <img src="https://github.com/LiquidFun/LiquidFun/blob/main/StackEmUp.png" style="height:100px">
+    <img src="https://github.com/LiquidFun/LiquidFun/blob/main/StackEmUp.png" style="height:120px">
   </a>
   <a href="https://github.com/LiquidFun/GrandpasHillRacer" title="Grandpa's Hill Racer - Construct & Race | 2 Person Team in 48h Game-Jam">
-    <img src="https://github.com/LiquidFun/LiquidFun/blob/main/GrandpasHillRacer.png" style="height:100px">
+    <img src="https://github.com/LiquidFun/LiquidFun/blob/main/GrandpasHillRacer.png" style="height:120px">
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.brutenis.jumpy&gl=US" title="Color Jumpy - Android Puzzle Platformer | Solo Project">
-    <img src="https://github.com/LiquidFun/LiquidFun/blob/main/ColorJumpy.png" style="height:100px">
+    <img src="https://github.com/LiquidFun/LiquidFun/blob/main/ColorJumpy.png" style="height:120px">
   </a>
   <a href="https://github.com/LiquidFun/Maerchentrubel" title="Maerchentrubel - 2D Exploration & Puzzle Game | 3 Person Team in 48h Game-Jam">
-    <img src="https://github.com/LiquidFun/LiquidFun/blob/main/Märchentrubel.png" style="height:100px">
+    <img src="https://github.com/LiquidFun/LiquidFun/blob/main/Märchentrubel.png" style="height:120px">
   </a>
 </p>
 
