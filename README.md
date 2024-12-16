@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/LiquidFun/Simple-Traffic-Simulation/" title="Simple Traffic Simulation - simulation of a single traffic intersection">
-    <img src="https://github.com/LiquidFun/LiquidFun/blob/main/TrafficSimulation.png" style="height:120px">
+    <img src="https://github.com/LiquidFun/LiquidFun/blob/main/SimpleTrafficSimulation.png" style="height:120px">
   </a>
 </p>
 
