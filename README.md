@@ -1,4 +1,4 @@
-<h2 align="center">Some of the Projects I Have Worked on</h2>
+<h2 align="center">My Projects</h2>
 
 <p align="center">
   <a href="https://github.com/LiquidFun/Airway/" title="Automatic Bronchus Classification | Bachelor Thesis">
@@ -7,11 +7,12 @@
   <a href="https://github.com/LiquidFun/Spine/" title="Spine Segmentation | Master Thesis">
     <img src="https://github.com/LiquidFun/LiquidFun/blob/main/Spine.png" style="height:150px">
   </a>
-
-  
+  <a href="https://github.com/LiquidFun/BoppieEvolution/" title="Boppies - evolving creature simulation with neural networks">
+    <img src="https://github.com/LiquidFun/LiquidFun/blob/main/Boppies.png" style="height:150px">
+  </a>
 </p>
 
-<h2 align="center">Games</h2>
+<h2 align="center">My Games</h2>
 
 <p align="center">
 
