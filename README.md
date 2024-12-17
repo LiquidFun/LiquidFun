@@ -28,6 +28,9 @@
   <a href="https://github.com/LiquidFun/stack-em-up" title="Stack 'em Up - Difficult Puzzle Platformer | 2 Person Team in 7 day Game-Jam">
     <img src="https://github.com/LiquidFun/LiquidFun/blob/main/StackEmUp.png" style="height:120px">
   </a>
+  <a href="https://github.com/HephaistosForge/LinguaCaelestia" title="Lingua Caelestia - typing game in space | 3 Person Team in 24h Game-Jam">
+    <img src="https://github.com/LiquidFun/LiquidFun/blob/main/LinguaCaelestia.png" style="height:120px">
+  </a>
   <a href="https://github.com/LiquidFun/GrandpasHillRacer" title="Grandpa's Hill Racer - Construct & Race | 2 Person Team in 48h Game-Jam">
     <img src="https://github.com/LiquidFun/LiquidFun/blob/main/GrandpasHillRacer.png" style="height:120px">
   </a>
